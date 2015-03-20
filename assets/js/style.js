@@ -70,7 +70,6 @@ var canvas6 = [
 			highlight: "#FFC870",
 			label: "物理"
 		}
-		
 
 	];
 
